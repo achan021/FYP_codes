@@ -1,0 +1,14 @@
+Total time taken to train 8 epoch : ----------229.5829437 seconds OR 3.8264 Minutes
+--------------------
+EPOCH BREAKDOWN
+--------------------
+Time taken for epoch : 1----------28.63885307 seconds OR 0.47731 Minutes
+Time taken for epoch : 2----------28.29319692 seconds OR 0.47155 Minutes
+Time taken for epoch : 3----------31.13049579 seconds OR 0.51884 Minutes
+Time taken for epoch : 4----------28.78920794 seconds OR 0.47982 Minutes
+Time taken for epoch : 5----------27.90902352 seconds OR 0.46515 Minutes
+Time taken for epoch : 6----------29.63716149 seconds OR 0.49395 Minutes
+Time taken for epoch : 7----------28.394665 seconds OR 0.47324 Minutes
+Time taken for epoch : 8----------26.78039241 seconds OR 0.44634 Minutes
+
+average acc == : 0.8778230042016807

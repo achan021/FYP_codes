@@ -1,0 +1,4 @@
+test_covid_folder/covid_df_30/*
+test_covid_folder/nocovid_df_30/*
+train_covid_folder/covid_df_70/*
+train_covid_folder/nocovid_df_70/*
